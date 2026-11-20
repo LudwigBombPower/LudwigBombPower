@@ -23,7 +23,7 @@
 
 ### 🔭 Recently
 
-- Tracked down a crash in the [Eglantine](https://github.com/Eglantine-Community/Eglantine) Switch 2 emulator (Donkey Kong Bananza on AMD GPUs) and opened a fix: [#888](https://github.com/Eglantine-Community/Eglantine/pull/888)
+- Tracked down a crash in the [Eglantine](https://github.com/Eglantine-Community/Eglantine) Switch 2 emulator (Donkey Kong Bananza on AMD GPUs) and submitted a fix ([#888](https://github.com/Eglantine-Community/Eglantine/pull/888)); the same fix landed upstream in [#720](https://github.com/Eglantine-Community/Eglantine/pull/720)
 
 ### 🌱 Currently
 
