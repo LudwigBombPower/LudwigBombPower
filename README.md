@@ -21,11 +21,8 @@
 - **tModLoader**: C# mods for Terraria
 - **Web**: HTML, CSS and JavaScript
 
-### 🔭 Recently
-
-- Tracked down a crash in the [Eglantine](https://github.com/Eglantine-Community/Eglantine) Switch 2 emulator (Donkey Kong Bananza on AMD GPUs) and submitted a fix ([#888](https://github.com/Eglantine-Community/Eglantine/pull/888)); the same fix landed upstream in [#720](https://github.com/Eglantine-Community/Eglantine/pull/720)
-
 ### 🌱 Currently
 
-- Getting better at C# and game architecture
-- Learning how emulators and graphics pipelines work
+- Contributing to open-source emulation projects: debugging, crash analysis and stability fixes
+- Studying emulator internals: dynamic recompilation, GPU command processing and shader translation (SPIR-V / Vulkan)
+- Deepening my C# and game architecture skills
